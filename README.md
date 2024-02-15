@@ -3,7 +3,7 @@
 [**Llama 2**](https://llama.meta.com/llama2) is a collection of second-generation open-source Large Language Models (LLMs) from Meta, designed to handle a wide range of natural language processing tasks. These models range in scale from `7 billion to 70 billion parameters`.
 It is optimized for dialogue, has shown similar performance to popular closed-source models like **ChatGPT** and **PaLM**.
 
-The repository implementation contains `Text Generation on Pre-Trained NousResearch’s Llama-2-7b-chat-hf using [guanaco-llama2-1k](https://huggingface.co/datasets/mlabonne/guanaco-llama2-1k) dataset`
+The repository implementation contains `Text Generation on Pre-Trained NousResearch’s Llama-2-7b-chat-hf` using [`guanaco-llama2-1k`](https://huggingface.co/datasets/mlabonne/guanaco-llama2-1k) dataset.
 
 <img src = "https://images.datacamp.com/image/upload/v1697724450/Fine_Tune_L_La_MA_2_cc6aa0e4ad.png" >
 
